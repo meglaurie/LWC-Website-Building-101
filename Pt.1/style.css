@@ -1,0 +1,25 @@
+body{
+  padding:0px;
+  margin: 0px;
+  background-color: pink;
+  /* background-image: url('imgs/profilePhoto.jpg'); */
+  /* background-repeat: no-repeat; */
+}
+
+h1{
+  margin: 0px;
+}
+.myImg{
+  height: 200px;
+
+}
+.center{
+  margin: 0 auto;
+}
+
+/*  */
+.hero{
+  background-color: red;
+  height: 100vh;
+  width: 100%;
+}
