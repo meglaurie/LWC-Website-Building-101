@@ -1,0 +1,158 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+section{
+  padding: 50px;
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 75px;
+}
+p{
+  padding: 0px;
+}
+a{
+  color:#000;
+  text-decoration: none;
+
+}
+
+.bgColour{
+  background-color: pink;
+}
+
+.homeHero{
+  background-image:
+  url('imgs/?.png') ;
+  background-position: 50% 50%;
+  background-size: cover;
+  background-color: pink;
+  height: 90vh;
+  width: 100%;
+  padding:25px;
+  top:0px;
+  left: 0px;
+  /* position: absolute; */
+  text-align: center;
+
+}
+
+.heroTxtContainer{
+  margin-top: 15%;
+  /* margin-left: 20%; */
+}
+
+.heroTxt{
+  /* margin: 0 auto; */
+  /* width:500px; */
+  color: #FFF;
+  text-align: center;
+}
+.topNav{
+  float: right;
+  /* width: 500px; */
+}
+
+.containerForm{
+  width: 500px;
+  margin: 0 auto;
+}
+
+.contactIcon{
+  height: 30px;
+  /* margin: 0 auto;
+  text-align: center; */
+  /* margin-top: 100px; */
+}
+
+.mainSection{
+  min-height: 600px;
+}
+.sectionTitle{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.projCard{
+  height: 470px;
+  width: 80px;
+  margin: 25px;
+  padding: 0px;
+  border: 1px solid #E1E1E1;
+  overflow: hidden;
+}
+.projImg{
+  background-color: pink;
+  height: 200px;
+  width: 100%;
+  /* border-radius: 100px; */
+  /* margin: 35px auto; */
+  background-position: 50% 50%;
+  background-size: cover;
+  background-color: pink;
+}
+
+.Img1{
+  background-image:
+  url('imgs/?.png') ;
+
+
+}
+.Img2{
+  background-image:
+  url('imgs/?.png') ;
+
+
+}
+.Img3{
+  background-image:
+  url('imgs/?.png') ;
+}
+
+.Img4{
+  background-image:
+  url('imgs/?.png') ;
+}
+
+.Img5{
+  background-image:
+  url('imgs/?.png') ;
+}
+
+.Img6{
+  background-image:
+  url('imgs/?.png') ;
+}
+
+.cardTxt{
+  padding: 20px;
+}
+.center{
+  text-align: center;
+}
+.aboutImgContainer{
+  position: relative;
+  left: 30%;
+}
+.aboutImg{
+  height: 300px;
+  width: 300px;
+}
+.img1{
+  position: absolute;
+  top: 60px;
+  left: 80px;
+  background-image: url('imgs/siteImgs/jobtitlebanner.png');
+  background-size: cover;
+  background-position: center;
+}
+.img2{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.nav-link{
+  color:#FFF;
+}
